@@ -1,16 +1,16 @@
-### Hi there 👋
+### 🔥🔥 Places I have been
+- Sr. Software Engineer at [Celloscope Limited](http://celloscope.net/)
+- Software Developer at [Spectrum Engineering Consortium Limited](https://www.spectrum-bd.com/)
 
-<!--
-**mashudkarim85/mashudkarim85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥 Technologies
 
-Here are some ideas to get you started:
+You can talk to me about,
+- Front-end development using **HTML, CSS, SCSS, Less, JavaScript, Angular, Vue, Ant design, Bootstrap, Material Design, PrimeNg**
+- Backend development using **NodeJS, Hapi, Express, Java**
+- Database stuff using **MongoDB, MySQL, PostgreSQL**
+- Web automation using **Cypress**
+- Deployment stuff using **Docker**, **Nginx**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can still talk to me about things I am still learning,
+- Frontend stuff like **Vue, Angular**
+- Backend stuff like **NodeJS, Java**
