@@ -13,5 +13,5 @@ You can talk to me about,
 - Deployment stuff using **Docker**, **Nginx**
 
 You can still talk to me about things I am still learning,
-- Frontend stuff like **Vue, Angular**
-- Backend stuff like **NodeJS, Java**
+- Frontend stuff like **Django**
+- Backend stuff like **Python**
