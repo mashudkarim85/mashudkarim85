@@ -1,6 +1,7 @@
 ### 🔥🔥 Places I have been
 - Sr. Software Engineer at [Celloscope Limited](http://celloscope.net/)
-- Software Developer at [Spectrum Engineering Consortium Limited](https://www.spectrum-bd.com/)
+- Software Engineer at [Spectrum Engineering Consortium Limited](https://www.spectrum-bd.com/)
+- Intern Software Engineer at [Spectrum Engineering Consortium Limited](https://www.spectrum-bd.com/)
 
 ### 🖥 Technologies
 
